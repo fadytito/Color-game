@@ -71,7 +71,6 @@ button {
 /*Media*/
 /*****************/
 
-
 @media only screen and (max-width: 510px) {
     body {
         font-size: 12px
